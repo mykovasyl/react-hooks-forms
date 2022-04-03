@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Form from './components/Form'
+import ParentsComponent from './components/ParentComponent';
 
 ReactDOM.render(
-  <Form />,
+  <ParentsComponent />,
   document.getElementById('root')
 );
